@@ -3,5 +3,5 @@
 ### Installation via Composer
 
 "require": {
-  "fileosoph/community_edition": "1.0.0"
+  "fileosoph/fileosoph": "1.0.0"
 }
