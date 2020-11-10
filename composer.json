@@ -1,6 +1,6 @@
 {
   "name": "fileosoph/ce_minimal",
-  "description": "description",
+  "description": "Easy configurable file processing.",
   "minimum-stability": "stable",
   "license": "AGPL-3.0-or-later",
   "authors": [
